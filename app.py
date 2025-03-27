@@ -1,2 +1,2 @@
 def proverka():
-    return
+    return 432134
