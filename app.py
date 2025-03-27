@@ -1,2 +1,6 @@
 def proverka():
-    return 432134
+<<<<<<< HEAD
+
+=======
+    return 2092384
+>>>>>>> conflict_demo
